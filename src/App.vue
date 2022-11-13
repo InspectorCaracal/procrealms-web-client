@@ -110,7 +110,7 @@ body, html {
   background-color: #181818;
   margin: 0;
   padding: 0;
-  font-family: 'DOS';
+  font-family: 'DOS', monospace;
   color: #fff;
   overflow-x: hidden;
   color-scheme: dark;
